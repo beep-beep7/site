@@ -1,0 +1,55 @@
+p.ville{
+	color: #ffcb00 ;
+	background-color: ffffff;
+}
+p.sport{
+	color: #302681 ;
+}
+
+body{
+
+	/*background-color: #009440 ;*/
+	background: url(https://images.unsplash.com/photo-1441986300917-64674bd600d8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFnYXNpbnxlbnwwfHwwfHx8MA%3D%3D) ;
+	background-size: 100%;
+}
+
+h1.boutique{
+	font-size: 100px;
+	font-weight: bold;
+	padding-left: 34%;
+	color: white;
+	padding-top: 200px;
+
+}
+
+a{
+	color: #ffcb00;
+	opacity: 0.7;
+}
+p{
+	font-size: 30px;
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+
+}
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	text-decoration: none;
+	background-color: black;
+	padding: 10px;
+	font-size: 20px;
+
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: black;
+	background-color: white;
+	transition: 0.5s all;
+}
